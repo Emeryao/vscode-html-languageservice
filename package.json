@@ -1,17 +1,17 @@
 {
-  "name": "vscode-html-languageservice",
-  "version": "2.0.2-next.2",
-  "description": "Language service for HTML",
+  "name": "vscode-wxml-languageservice",
+  "version": "2.0.2",
+  "description": "Language service for WXML",
   "main": "./lib/htmlLanguageService.js",
   "typings": "./lib/htmlLanguageService",
-  "author": "Microsoft Corporation",
+  "author": "Emeryao",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/vscode-html-languageservice"
+    "url": "https://github.com/Emeryao/vscode-wxml-languageservice"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Microsoft/vscode-html-languageservice"
+    "url": "https://github.com/Emeryao/vscode-wxml-languageservice"
   },
   "devDependencies": {
     "mocha": "^2.4.5",
